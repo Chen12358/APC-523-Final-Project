@@ -1,4 +1,4 @@
-# APC-523 Final Project: Experiments 1-4
+# APC-523 Final Project: Experiments
 
 This repository contains four standalone scripts for eigenvalue experiments:
 
